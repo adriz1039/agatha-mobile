@@ -1,0 +1,1 @@
+{"name": "Agatha Mobile", "short_name": "Agatha", "start_url": "./index.html", "display": "standalone", "background_color": "#100c1c", "theme_color": "#161126", "icons": [{"src": "icon-192.png", "sizes": "192x192", "type": "image/png"}, {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}]}
